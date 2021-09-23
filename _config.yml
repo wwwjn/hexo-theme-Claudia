@@ -16,15 +16,15 @@ social:
   zhihu:
   twitter: /
   facebook: /
-  linkedin: /wwwjn
+  linkedin: wangjiani
   instagram: /
   github: wwwjn
 
 user:
-  name: Jiani
+  name: Jiani Wang
   avatar: /images/avatar.jpg
-  location: In the dust
-  description: May the Force be with you
+  location: Palo Alto, CA
+  description: Be my beacon X.K.
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
